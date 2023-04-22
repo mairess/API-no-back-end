@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/mairess/API-no-back-end/issues"
   },
-  "homepage": "https://github.com/mairess/API-no-back-end#readme"
+  "homepage": "https://github.com/mairess/API-no-back-end#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
