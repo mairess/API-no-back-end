@@ -3,15 +3,13 @@
   "version": "1.0.0",
   "description": "* Learning API on back end at https://rocketseat.com.br",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mairess/API-no-back-end.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Maires",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mairess/API-no-back-end/issues"
